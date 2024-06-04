@@ -1,5 +1,5 @@
 ---
-title: From ALX to All In: My Journey into Open-Source Development
+title: From ALX to All In, My Journey into Open-Source Development
 ---
 
 Here is the content with relevant section headings in markdown format:
